@@ -1,0 +1,10 @@
+color flow (RGB):  Min (4:46:12) Max (74:116:82)
+Reference: maize
+Field polygon: 
+x: 117|  y: 71
+x: 127|  y: 52
+x: 847|  y: 257
+x: 864|  y: 693
+x: 157|  y: 566
+x: 117|  y: 71
+Damage: 27%

@@ -1,0 +1,7 @@
+﻿  Work.cpp
+  WorkOut.cpp
+D:\Project1\Project1\WorkOut.cpp(5,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Project1\Project1\WorkOut.cpp(23,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Project1\Project1\WorkOut.cpp(55,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Project1.vcxproj -> D:\Project1\x64\Debug\Project1.exe
